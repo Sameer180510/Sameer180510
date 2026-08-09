@@ -204,34 +204,6 @@ January 2025 – April 2025
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sameer180510&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer180510&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sameer180510&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-</p>
-
----
-
-## Top Contributed Repositories
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Sameer180510&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
-
-</p>
-
----
-
 <p align="center">
   <i>Thanks for visiting my profile.</i>
 </p>
