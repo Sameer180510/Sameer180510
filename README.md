@@ -1,8 +1,8 @@
-# Hey, I'm Sameer 👋
+# Hello, I am Sameer 👋 (Better call Sam D2)
 
-I'm a final-year Computer Science and Engineering student from Nagpur, Maharashtra.
+I am a final-year Computer Science and Engineering student from Nagpur, Maharashtra.
 
-I got into web development by building small things and breaking them along the way. Since then, I've been learning more about how the frontend, backend, databases, and APIs actually fit together.
+I started learning web development by building small projects and figuring things out along the way. Over time, I became more interested in how the frontend, backend, APIs, and database actually connect to make a complete application.
 
 Most of my recent work has been around the **MERN stack**. I'm comfortable working with React, Node.js, Express, MongoDB, REST APIs, and the usual tools that come with building a web application.
 
@@ -14,23 +14,23 @@ I don't consider myself an expert yet. I'm still learning, building, making mist
 
 ## What I'm up to
 
-- 🧠 Learning **DSA in C++**
-- 🌐 Building and improving **MERN stack** projects
-- 🔧 Learning more about backend development and REST APIs
-- 🧩 Practicing problem solving on coding platforms
-- 🚀 Working on projects that are more than just UI clones
+- Learning **DSA in C++**
+- Building and improving **MERN stack** projects
+- Learning more about backend development and REST APIs
+- Practicing problem solving on coding platforms
+- Working on projects that are more than just UI clones
 
 ---
 
-## One project I'm proud of
+## Projects
 
 ### FixNear — Electronic Repair Service Platform
 
 **React.js · Node.js · Express.js · MongoDB · Tailwind CSS · JWT**
 
-FixNear is a full-stack web application I built around a simple idea: helping customers find and interact with nearby electronic repair centers.
+Fixnear is a project I'm currently building to help people find and connect with nearby electronic repair centers, especially when they are in a new place.
 
-I worked on both the frontend and backend, including:
+I'm working on both the frontend and backend, including customer repair requests, store-side request management, authentication, and database integration, including:
 
 - Customer booking and repair requests
 - Repair tracking and status updates
@@ -43,17 +43,17 @@ I worked on both the frontend and backend, including:
 - Axios for API requests
 - React Router for navigation
 
-Building FixNear helped me understand things that aren't always obvious when you're only following tutorials — especially how frontend and backend communicate, how data flows through an application, and how different parts of a project need to work together.
+Working on Fixnear has helped me understand things beyond just writing individual components — especially how frontend and backend communicate, how APIs handle data, and how different users should access different parts of an application.
 
----
+It's still a work in progress, and I'm continuing to improve it.
 
-## Other things I've built
+### Automatic Question Paper Generator
 
-### Spotify Clone
+**Python · NLP**
 
-**HTML · CSS · JavaScript**
+A NLP project that generates questions from uploaded study material based on selected topics and difficulty levels.
 
-A responsive music player interface that I built while practicing JavaScript and frontend interactions.
+I worked on parts like text processing, segmentation, POS tagging, NER, and difficulty scoring without using a pretrained model or external API.
 
 ### Netflix Clone
 
@@ -136,7 +136,7 @@ I'm also using coding platforms to practice regularly.
 
 **June 2023 – August 2023**
 
-During my internship, I worked with Python and got some practical exposure to programming and backend fundamentals.
+During my internship, I worked with Python and got practical exposure to programming and debugging.
 
 It was also a good learning experience for debugging problems instead of just trying to make the code run.
 
